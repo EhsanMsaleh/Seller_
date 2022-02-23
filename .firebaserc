@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "jumia-1ff31": {
+      "hosting": {
+        "Seller_": [
+          "jumia-1ff31"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "jumia-1ff31"
+  }
+}
